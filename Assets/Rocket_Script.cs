@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
+// Added by Girik
 public class Rocket_Script : MonoBehaviour
 {
     Rigidbody rigidbody;
